@@ -60,6 +60,10 @@ header {
     color: #4D5AE5;
 }
 
+.main-button {
+    cursor: pointer;
+}
+
 .h3 {
     color: #2E2F42;
     font-size: 20;
