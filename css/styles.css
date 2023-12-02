@@ -4,7 +4,7 @@ body {
     line-height: 1.5;
     font-size: 16;
     background-color: #FFFFFF;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em
 }
 
 header {
@@ -33,6 +33,7 @@ header {
 .header-contact-link {
     color: #2E2F42;
     font-weight: 500;
+    letter-spacing: 0.02em; 
 }
 
 .header-contact-link:hover,
@@ -46,6 +47,7 @@ header {
 
 .address-link {
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
 .address-link:hover,
@@ -67,6 +69,7 @@ header {
     line-height: 1.07;
     font-size: 56px;
     text-align: center;
+    letter-spacing: 0.02em;
 }
 
 .main-button {
@@ -91,12 +94,14 @@ header {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     background: #FFF;
 }
 
 .text-characteristics {
     color: #434455;
     background: #FFF;
+    letter-spacing: 0.02em;
 }
 
 .team-portfolio {
@@ -108,12 +113,14 @@ header {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
 .our-team-list {
     background: #FFFFFF;
     color: #434455;
+    letter-spacing: 0.02em;
 }
 
 .team-member {
@@ -121,12 +128,17 @@ header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     background: #FFFFFF;
+}
+.our-team-position {
+    letter-spacing: 0.02em;
 }
 
 .portfolio-description {
     color: #434455;
     background: #FFFFFF;
+    letter-spacing: 0.02em;
 }
 
 .portfolio-title {
@@ -134,6 +146,7 @@ header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .footer {
@@ -160,4 +173,5 @@ header {
 
 .footer-text {
     color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
