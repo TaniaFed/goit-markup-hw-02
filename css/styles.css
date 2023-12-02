@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", "Raleway" sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     line-height: 1.5;
     font-size: 16;
@@ -13,7 +13,7 @@ header {
 
 .header-logo {
     color: #4d5ae5;
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     line-height: 1.17;
     font-size: 18px;
     text-transform: uppercase;
@@ -24,7 +24,7 @@ header {
 
 .header-logo .accent {
     color:#2e2f42;
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     line-height: 1.6;
     font-size: 18;
 }
@@ -103,11 +103,11 @@ header {
     letter-spacing: 0.02em;
 }
 
-.our-team {
+.team-portfolio {
     background-color: #F4F4FD;
 }
 
-.team-member {
+.our-team-title {
     color: #2E2F42;
     font-size: 36px;
     line-height: 1.11;
@@ -116,7 +116,7 @@ header {
     text-transform: capitalize;
 }
 
-.team-position {
+.our-team-list {
     background: #FFFFFF;
     color: #434455;
     letter-spacing: 0.02em;
@@ -137,15 +137,8 @@ header {
     letter-spacing: 0.02em;
 }
 
-.company-portfolio {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-}
-
 .portfolio-title {
+    color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -158,7 +151,7 @@ header {
 
 .footer-logo {
     color: #4d5ae5;
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     line-height: 1.17;
     font-size: 18px;
