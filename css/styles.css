@@ -4,7 +4,15 @@ body {
     line-height: 1.5;
     font-size: 16;
     background-color: #FFFFFF;
-    letter-spacing: 0.02em
+    
+}
+
+.list {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
 }
 
 header {
